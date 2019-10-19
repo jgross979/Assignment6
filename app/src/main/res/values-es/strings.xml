@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cambiador de color</string>
+    <string name="palette_name">Actividad de paleta</string>
+    <string name="choose_color">Elige un color...</string>
+    <string name="blue">Azul</string>
+    <string name="green">Verde</string>
+    <string name="cyan">Cian</string>
+    <string name="yellow">Amarillo</string>
+    <string name="gray">Gris</string>
+    <string name="magenta">Magenta</string>
+    <string name="teal">Verde Azulado</string>
+    <string name="aqua">Agua</string>
+    <string name="navy">Armada</string>
+    <string name="fuchsia">Fucsia</string>
+</resources>
