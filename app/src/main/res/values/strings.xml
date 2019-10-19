@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Color Changer</string>
+    <string name="palette_name">Pallete Activity</string>
+    <string name="choose_color">Choose a color...</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="cyan">Cyan</string>
+    <string name="yellow">Yellow</string>
+    <string name="gray">Gray</string>
+    <string name="magenta">Magenta</string>
+    <string name="teal">Teal</string>
+    <string name="aqua">Aqua</string>
+    <string name="navy">Navy</string>
+    <string name="fuchsia">Fuchsia</string>
+</resources>
+
